@@ -1,4 +1,4 @@
-# web_bilgi_yarısma-_oyunu_jsile
+# web_bilgi_yarismasi_oyunu
 
    2 kişi ile oynanan , sorulara verilen doğru cevaplandıgında puan alarak oyuncuların ilk başlangıç noktasına rakibp oyuncu geldiğinde biten,
    birazda şans faktörü ve eğlenceli olması için strateji gerektiren bir web bilgi yarışması oyunudur.
